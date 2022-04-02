@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+
+#num {
+  font-size: 70px;
+}
+
+.palo {
+  font-size: 40px;
+}
